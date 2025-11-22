@@ -6,7 +6,7 @@
 - Python: Pandas, NumPy, Scikit-learn
 - Tableau (geographic visualization)
 
-**Analysis Steps**
+**Analysis Steps :**
 1. Data Collection :
    Data was sourced from BPS publications in PDF tables, converted to Word, and then extracted to Excel.
 3. Data Cleaning :
