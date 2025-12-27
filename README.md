@@ -1,5 +1,4 @@
 # indonesia-poverty-clustering-2023
-**Project Overview**
 **This project analyzes poverty data across cities and regencies in Indonesia using clustering techniques.**
 **Two clustering algorithms, K-Means and Bisecting K-Means, are implemented and compared to identify patterns and characteristics of poverty across regions. The results are visualized through statistical charts and geographic maps of Indonesia.**
 **The insights from this analysis aim to support data-driven decision-making, particularly in understanding regional poverty profiles for policy evaluation and planning.**
